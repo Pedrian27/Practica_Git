@@ -1,2 +1,4 @@
 practica 2 git 
 linea nueva desde la CMD 
+---------------
+linea nueva desde GItHUb
