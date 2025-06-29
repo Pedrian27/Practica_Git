@@ -1,2 +1,4 @@
 este archivo es para la segunda practica 
 Linea nueva usando la cmd 
+-------------------
+Linea nueva usando GitHUb
