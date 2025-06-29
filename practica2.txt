@@ -1,4 +1,1 @@
-este archivo es para la segunda practica 
-Linea nueva usando la cmd 
--------------------
-Linea nueva usando GitHUb
+practica 2 de los git 
